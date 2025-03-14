@@ -99,5 +99,3 @@ I'm a full-stack developer specializing in modern web applications, SaaS solutio
 
 ## 📫 Let's Connect
 Feel free to reach out for collaborations or just a tech chat!
-
-![Visitors](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=visitors&query=value&url=https://api.countapi.xyz/hit/github.com.username/visits)
