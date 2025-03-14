@@ -27,7 +27,7 @@ I'm a full-stack developer specializing in modern web applications, SaaS solutio
             <span style="color: #0066cc; font-family: 'Times New Roman', serif;">𝐷𝑒𝑚𝑎𝑛𝑑</span> + <span style="color: #009933; font-family: 'Times New Roman', serif;">𝑉𝑜𝑙𝑎𝑡𝑖𝑙𝑖𝑡𝑦</span> = <span style="color: #cc0000; font-family: 'Times New Roman', serif;">𝑃𝑟𝑜𝑑𝑢𝑐𝑡-𝑚𝑎𝑟𝑘𝑒𝑡 𝑓𝑖𝑡</span>
           </p>
           <p align="center" style="margin-top: 15px; font-size: 1.1em; font-family: 'Courier New', monospace;">
-            『 𝙻𝚎𝚝 𝚞𝚜 𝚗𝚘𝚝 𝚛𝚎𝚒𝚗𝚟𝚎𝚗𝚝 𝚝𝚑𝚎 𝚠𝚑𝚎𝚎𝚕 𝚊𝚗𝚍 𝚞𝚜𝚎 𝚝𝚑𝚎 𝚝𝚘𝚘𝚕𝚜 』
+            『 𝙻𝚎𝚝 𝚞𝚜 𝚗𝚘𝚝 𝚛𝚎𝚒𝚗𝚟𝚎𝚗𝚝 𝚝𝚑𝚎 𝚠𝚑𝚎𝚎𝚕 𝚊𝚗𝚍 𝚞𝚜𝚎 𝚝𝚑𝚎 𝚝𝚘𝚘𝚕𝚜 for a new path 』
           </p>
           <p align="center" style="margin-top: 20px; font-size: 1.1em; font-style: italic; color: #555;">
             "𝑇ℎ𝑒 𝑚𝑖𝑛𝑑 𝑟𝑒𝑐𝑎𝑙𝑙𝑠 𝑛𝑜𝑡 𝑎𝑙𝑙, 𝑏𝑢𝑡 𝑡ℎ𝑒 𝑝𝑎𝑡ℎ 𝑜𝑛𝑐𝑒 𝑡𝑟𝑎𝑣𝑒𝑟𝑠𝑒𝑑 𝑖𝑠 𝑠𝑤𝑖𝑓𝑡𝑙𝑦 𝑟𝑒𝑑𝑖𝑠𝑐𝑜𝑣𝑒𝑟𝑒𝑑."
