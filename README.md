@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gplemon&label=Profile%20views&color=0e75b6&style=flat" alt="gplemon" /> </p>
 
-# 👋 Hello, Fellow Developers!
-
 I'm a full-stack developer specializing in modern web applications, SaaS solutions, and automated testing.
 
 ## 🚀 Preferred Tech Stacks
