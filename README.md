@@ -7,7 +7,7 @@ I'm a full-stack developer specializing in modern web applications, SaaS solutio
 
 ## 🚀 Preferred Tech Stacks
 - **SaaS/SPAs/PWAs:** Nuxt3, Vue3, React, Supabase, PUG, MongoDB, Netlify, Vercel, Cloudflare, Figma, Snyk, GSAP, Deno
-- **Headless Testing & Automation:** Selenium WebDriver, Webdriver.io, PhantomJS, Nightmare, Headless Chrome, Puppeteer, Chai
+- **Headless Testing & Automation:** Selenium WebDriver, Webdriver.io, PhantomJS, Nightmare, Headless Chrome, Puppeteer, Chai, Sentry.io
 
 ## 💡 Development Philosophy
 <div align="center">
