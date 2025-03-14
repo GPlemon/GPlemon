@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gplemon&label=Profile%20views&color=0e75b6&style=flat" alt="gplemon" /> </p>
 
-I'm a full-stack developer specializing in modern web applications, SaaS solutions, and automated testing.
+I'm a full-stack developer specializing in modern web applications, SaaS solutions, a self-starter, a friendly lone wolf in Limerick🐺
 
 ## 🚀 Preferred Tech Stacks
 - **SaaS/SPAs/PWAs:** Nuxt3, Vue3, React, Supabase, PUG, MongoDB, Netlify, Vercel, Cloudflare, Figma, Snyk, GSAP, Deno
