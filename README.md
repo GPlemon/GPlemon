@@ -10,11 +10,30 @@ I'm a full-stack developer specializing in modern web applications, SaaS solutio
 - **Headless Testing & Automation:** Selenium WebDriver, Webdriver.io, PhantomJS, Nightmare, Headless Chrome, Puppeteer, Chai
 
 ## 💡 Development Philosophy
-> PoC + PoV = (MVP)
-> 
-> Demand + Volatility = Product-market fit
->
-> Let us not reinvent the wheel and use the tools.
+<div align="center">
+  <table style="width: 80%; margin: 0 auto; border: 2px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <tr>
+      <td align="center" style="background: linear-gradient(to right, #232526, #414345); padding: 10px;">
+        <img src="https://img.shields.io/badge/-Philosophy-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyQTEwLDEwIDAgMCAxIDIyLDEyQTEwLDEwIDAgMCAxIDEyLDIyQTEwLDEwIDAgMCAxIDIsMTJBMTAsMTAgMCAwIDEgMTIsMk0xMiw0QTgsOCAwIDAgMCA0LDEyQTgsOCAwIDAgMCAxMiwyMEE4LDggMCAwIDAgMjAsMTJBOCw4IDAgMCAwIDEyLDRNMTIsNkExLDEgMCAwIDEgMTMsN0ExLDEgMCAwIDEgMTIsOEExLDEgMCAwIDEgMTEsN0ExLDEgMCAwIDEgMTIsNk0xMiwxNUEyLDIgMCAwIDEgMTQsMTdBMiwyIDAgMCAxIDEyLDE5QTIsMiAwIDAgMSAxMCwxN0EyLDIgMCAwIDEgMTIsMTVNMTQsMTFWMTNIMTBWMTFIMTRaIiAvPjwvc3ZnPg==" alt="Development Philosophy" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; background-color: #f9f9f9;">
+        <div style="font-family: 'Courier New', monospace; font-weight: bold;">
+          <p align="center" style="font-size: 1.2em;">
+            <span style="color: #0066cc; font-family: 'Times New Roman', serif;">𝑃𝑜𝐶</span> + <span style="color: #009933; font-family: 'Times New Roman', serif;">𝑃𝑜𝑉</span> = (<span style="color: #cc0000; font-family: 'Times New Roman', serif;">𝑀𝑉𝑃</span>)
+          </p>
+          <p align="center" style="font-size: 1.2em;">
+            <span style="color: #0066cc; font-family: 'Times New Roman', serif;">𝐷𝑒𝑚𝑎𝑛𝑑</span> + <span style="color: #009933; font-family: 'Times New Roman', serif;">𝑉𝑜𝑙𝑎𝑡𝑖𝑙𝑖𝑡𝑦</span> = <span style="color: #cc0000; font-family: 'Times New Roman', serif;">𝑃𝑟𝑜𝑑𝑢𝑐𝑡-𝑚𝑎𝑟𝑘𝑒𝑡 𝑓𝑖𝑡</span>
+          </p>
+          <p align="center" style="margin-top: 15px; font-size: 1.1em; font-family: 'Courier New', monospace;">
+            『 𝙻𝚎𝚝 𝚞𝚜 𝚗𝚘𝚝 𝚛𝚎𝚒𝚗𝚟𝚎𝚗𝚝 𝚝𝚑𝚎 𝚠𝚑𝚎𝚎𝚕 𝚊𝚗𝚍 𝚞𝚜𝚎 𝚝𝚑𝚎 𝚝𝚘𝚘𝚕𝚜 』
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 💻 Technical Skills
 
