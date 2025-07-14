@@ -117,5 +117,4 @@ I'm a full-stack developer specializing in modern web applications and SaaS solu
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![IDLE](https://img.shields.io/badge/-IDLE_Shell-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📫 Let's Connect
-Feel free to reach out for collaborations or just a tech chat!
+
