@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gplemon&label=Profile%20views&color=0e75b6&style=flat" alt="gplemon" /> </p>
 
-I'm a full-stack developer specializing in modern web applications and SaaS solutions. As a self-starter, I'm excited about the transformative possibilities we're witnessing in the early days of AI.
+I'm a full-stack developer specializing in modern web applications and SaaS solutions. As a self-starter, I'm excited about the transformative possibilities we're witnessing in the early days and the quadratic time complexity of AI's progression.
 
 ## 🚀 Preferred Tech
 - **SaaS/SPAs/PWAs:** Nuxt3, Vue3, Node.js, React, Supabase, PUG, MongoDB, Netlify, Vercel, Cloudflare, Figma, Snyk, GSAP, Deno
