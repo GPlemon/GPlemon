@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gplemon&label=Profile%20views&color=0e75b6&style=flat" alt="gplemon" /> </p>
 
-I'm a full-stack developer specializing in modern web applications and SaaS solutions. I set my own initiatives and expectations, I'm excited about the transformative possibilities we're witnessing in the early days and the quadratic time complexity of AI's progression.
+I'm a full-stack developer specializing in modern web applications, AI and SaaS solutions. I set my own initiatives and expectations, I'm excited about the transformative possibilities we're witnessing in the early days and the quadratic time complexity of AI's progression.
 
 ### Front-End Development
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
